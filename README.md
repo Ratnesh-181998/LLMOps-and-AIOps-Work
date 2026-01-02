@@ -366,7 +366,7 @@
 
 - ### ⚙️ LLMOps Engineer Stack
 
-  <img width="770" height="436" alt="image" src="https://github.com/user-attachments/assets/e8fdb8b1-47bd-4a9b-97fc-9f1c8fb6802b" />
+<img width="770" height="436" alt="image" src="https://github.com/user-attachments/assets/e8fdb8b1-47bd-4a9b-97fc-9f1c8fb6802b" />
 
 - ### 🤖 MLOps / AIOps Stack
 
