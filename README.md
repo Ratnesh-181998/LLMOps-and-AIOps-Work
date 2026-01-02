@@ -54,6 +54,10 @@
 
 # WORK 3 AI TRAVEL PLANNER
 
+- ### **[GitRepo](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System)**
+- ### **[Live Demo Comming Soon](/)**
+
+
 <img width="940" height="489" alt="image" src="https://github.com/user-attachments/assets/427a4d58-74a0-49c3-a7f7-acf35b79f03b" />
 
 <img width="940" height="498" alt="image" src="https://github.com/user-attachments/assets/bb9aba3b-e99b-422d-8acf-643c77a3ce0f" />
@@ -70,6 +74,10 @@
 ---
 
 # WORK 4 STUDY BUDDY AI 
+
+- ### **[GitRepo](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI)**
+- ### **[Live Demo Comming Soon](/)**
+  
 
 <img width="940" height="451" alt="image" src="https://github.com/user-attachments/assets/996f8225-6ef6-4b4a-b906-dc7b4106ad61" />
 
