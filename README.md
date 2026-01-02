@@ -67,7 +67,9 @@
 
 <img width="863" height="335" alt="image" src="https://github.com/user-attachments/assets/d718ec22-06b6-4014-bd52-7a857b62e9d9" />
 
+
 ---
+
 
 # WORK 1 ANIME RECOMMENDER
 
@@ -83,6 +85,7 @@
 
 ---
 
+
 # WORK 2 FLIPKART PRODUCT RECOMMENDER
 
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/b7eeae5d-3b28-4ea5-86d0-f56fb6bdde33" />
@@ -95,7 +98,9 @@
 
 <img width="818" height="864" alt="image" src="https://github.com/user-attachments/assets/739afbc5-5d0d-4410-8df2-cb28d1f799b0" />
 
+
 ---
+
 
 # WORK 3 AI TRAVEL PLANNER
 
@@ -109,7 +114,9 @@
 
 <img width="650" height="820" alt="image" src="https://github.com/user-attachments/assets/0a147e32-1354-450d-8c8a-9aeed743d7c2" />
 
+
 ---
+
 
 # WORK 4 STUDY BUDDY AI 
 
@@ -121,7 +128,9 @@
 
 <img width="678" height="781" alt="image" src="https://github.com/user-attachments/assets/276dd6e6-1210-4758-b77c-d2b72d0374b3" />
 
+
 ---
+
 
 # WORK 5 CELEBRITY DETECTOR QA
 
@@ -136,6 +145,7 @@
 
 ---
 
+
 # WORK 6 MULTI-AI AGENT SYSTEM
 
 <img width="940" height="359" alt="image" src="https://github.com/user-attachments/assets/021e907e-b9f9-4687-8981-703c7c808e46" />
@@ -148,7 +158,9 @@
 
 <img width="693" height="752" alt="image" src="https://github.com/user-attachments/assets/1e7e647d-1c14-4cd9-bb5a-fb7e049c3321" />
 
+
 ---
+
 
 # WORK 7 MEDICAL RAG CHATBOT
 
@@ -158,11 +170,11 @@
 
 <img width="940" height="442" alt="image" src="https://github.com/user-attachments/assets/2ffaa7d2-08f9-4464-96eb-848426d3eae5" />
 
-<img width="1079" height="1201" alt="image" src="https://github.com/user-attachments/assets/b2f3e47f-3e90-4663-9f8b-aea1cb6852bc" />
-
 <img width="556" height="764" alt="image" src="https://github.com/user-attachments/assets/928654ef-6fb7-4791-a2d1-5e78873a63e5" />
 
+
 ---
+
 
 # WORK 8 MUSIC COMPOSER (GENAI)
 
@@ -173,6 +185,7 @@
 <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/c377730b-8122-4dbe-99af-87467325688c" />
 
 <img width="606" height="719" alt="image" src="https://github.com/user-attachments/assets/dff0f7bb-df8a-4c5b-af5b-6238cec9477f" />
+
 
 ---
 
