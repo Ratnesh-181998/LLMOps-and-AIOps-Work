@@ -1,6 +1,3 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=LLMOps%20%26%20AIOps%20Works&fontSize=50&fontColor=fff&animation=fadeIn" width="100%">
-
-
 
 # 🚀 **LLMOps & AIOps Portfolio** 🚀
 ### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
@@ -256,9 +253,9 @@
 
  <img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/6aa9cafc-2470-445f-8b88-ada2b2c80400" />
 
-<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/fb87864e-b066-4cde-868a-ec683843f072" />
-
 <img width="1079" height="1201" alt="image" src="https://github.com/user-attachments/assets/b2f3e47f-3e90-4663-9f8b-aea1cb6852bc" />
+
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/fb87864e-b066-4cde-868a-ec683843f072" />
 
 <img width="556" height="764" alt="image" src="https://github.com/user-attachments/assets/928654ef-6fb7-4791-a2d1-5e78873a63e5" />
 
