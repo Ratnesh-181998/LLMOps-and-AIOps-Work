@@ -252,10 +252,10 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
 
  <img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/6aa9cafc-2470-445f-8b88-ada2b2c80400" />
+ 
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/fb87864e-b066-4cde-868a-ec683843f072" />
 
 <img width="1079" height="1201" alt="image" src="https://github.com/user-attachments/assets/b2f3e47f-3e90-4663-9f8b-aea1cb6852bc" />
-
-<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/fb87864e-b066-4cde-868a-ec683843f072" />
 
 <img width="556" height="764" alt="image" src="https://github.com/user-attachments/assets/928654ef-6fb7-4791-a2d1-5e78873a63e5" />
 
@@ -279,9 +279,9 @@
 
  <img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/f0022d14-c38b-4b2d-a4e1-2ef26e7062d8" />
 
-<img width="1154" height="1013" alt="image" src="https://github.com/user-attachments/assets/2e152666-4ef7-4ead-9b8c-8ef4cc79c477" />
+ <img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/c377730b-8122-4dbe-99af-87467325688c" />
 
-<img width="940" height="499" alt="image" src="https://github.com/user-attachments/assets/c377730b-8122-4dbe-99af-87467325688c" />
+<img width="1154" height="1013" alt="image" src="https://github.com/user-attachments/assets/2e152666-4ef7-4ead-9b8c-8ef4cc79c477" />
 
 <img width="606" height="719" alt="image" src="https://github.com/user-attachments/assets/dff0f7bb-df8a-4c5b-af5b-6238cec9477f" />
 
@@ -422,7 +422,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F38181&center=true&vCenter=true&width=600&lines=Built+with+passion+for+the+AI+Community+🚀;Innovating+the+Future+of+AI+%26+ML;LLMOps+%7C+AIOps+%7C+GenAI+Excellence" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F38181&center=true&vCenter=true&width=600&lines=Built+with+passion+for+the+AI+Community+🚀;Innovating+the+Future+of+AI+%26+ML;LLMOps+%7C+AIOps+%7C+GenAI+%7C+AgenticAI+Excellence" alt="Footer Typing SVG" />
 
 
 
