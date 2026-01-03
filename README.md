@@ -133,7 +133,7 @@
 ### *Agent-Based Travel Reasoning & Recommendation System*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agentic-AI-Travel-Planner-Itinerary)
-[![Live Demo](https://img.shields.io/badge/🔜_Live_Demo_Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white)](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/)
 
 ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
