@@ -51,8 +51,8 @@
 |:---|:---|:---|
 | 🎬 Anime Recommender | [GitHub](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System) • [Demo](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/) | RAG • LangChain • Groq |
 | 🛒 Flipkart Recommender | [GitHub](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG) • [Demo](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/) | RAG • Vector DB • LangChain |
-| ✈️ AI Travel Planner | [GitHub](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System) • 🔜 Demo | Agentic AI • LangGraph |
-| 📚 Study Buddy AI | [GitHub](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI) • 🔜 Demo | GenAI • RAG • EdTech |
+| ✈️ AI Travel Planner | [GitHub](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System) • [Demo](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/) | Agentic AI • LangGraph |
+| 📚 Study Buddy AI | [GitHub](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI) • [Demo](/) | GenAI • RAG • EdTech |
 | 🎭 Celebrity Recognition | [GitHub](https://github.com/Ratnesh-181998/Celebrity-Recognition-QA-AI-System) • [Demo](https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/) | Computer Vision • LLM |
 | 🤖 Multi-AI Agent System | [GitHub](https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-) • [Demo](https://appudtzei3tyyttd6xjhwur.streamlit.app/) | Multi-Agent • LangGraph |
 | 🏥 Medical RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot) • [Demo](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/) | Healthcare AI • RAG |
@@ -132,8 +132,8 @@
 ## ✈️ **WORK 3: AI Travel Planner** ✈️
 ### *Agent-Based Travel Reasoning & Recommendation System*
 
-[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System)
-[![Coming Soon](https://img.shields.io/badge/🔜_Live_Demo_Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white)](/)
+[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agentic-AI-Travel-Planner-Itinerary)
+[![Live Demo](https://img.shields.io/badge/🔜_Live_Demo_Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white)](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/)
 
 ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
