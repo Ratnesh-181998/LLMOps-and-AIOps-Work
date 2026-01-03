@@ -379,6 +379,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
+
+## 📜 **License**
+
+![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+**Licensed under the MIT License** - Feel free to fork and build upon this innovation! 🚀
+
+---
+
 # 📞 **CONTACT & NETWORKING** 📞
 
 
@@ -386,14 +395,6 @@
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
 [![Email](https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rattudacsit2021gate@gmail.com)
-
----
-
-## 📜 **License**
-
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
-**Licensed under the MIT License** - Feel free to fork and build upon this innovation! 🚀
 
 
 ---
