@@ -55,6 +55,7 @@
 
 | 🎯 **Project** | 🔗 **Quick Links** | 🛠️ **Tech Stack** |
 |:---|:---|:---|
+|🌤️ Weather MCP Agent | [GitHub](https://github.com/Ratnesh-181998/weather-mcp-a2a) • [Demo](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/) | MCP •RAG • LangChain • Groq |
 | 🎬 Anime Recommender | [GitHub](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System) • [Demo](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/) | RAG • LangChain • Groq |
 | 🛒 Flipkart Recommender | [GitHub](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG) • [Demo](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/) | RAG • Vector DB • LangChain |
 | ✈️ AI Travel Planner | [GitHub](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System) • [Demo](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/) | Agentic AI • LangGraph |
