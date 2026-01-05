@@ -1,10 +1,7 @@
 
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=AGENTIC%20AI%20%26%20GEN%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn&cache=false"
-    width="100%"
-  />
-</div>
+<p align="center">
+  <img src="assets/agentic-ai-genai-header.png" width="100%" />
+</p>
 
 ---
 
