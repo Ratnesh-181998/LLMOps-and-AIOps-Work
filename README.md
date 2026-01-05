@@ -14,6 +14,8 @@
   />
 </div>
 
+---
+
 # 🚀 **AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio** 🚀
 ### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
 
