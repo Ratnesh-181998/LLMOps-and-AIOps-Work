@@ -1,3 +1,18 @@
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api
+      ?type=waving
+      &color=gradient
+      &customColorList=24,20,12,6
+      &height=240
+      &section=header
+      &text=AGENTIC%20AI%20%7C%20GEN%20AI%20%7C%20LLMOps%20%26%20AIOps
+      &fontSize=48
+      &fontColor=ffffff
+      &animation=fadeIn"
+    width="100%"
+  />
+</div>
 
 # 🚀 **AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio** 🚀
 ### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
