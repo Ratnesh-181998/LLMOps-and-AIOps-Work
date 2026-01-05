@@ -1,6 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20and%20GEN%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+</div>
 
-# 🚀 **LLMOps & AIOps Portfolio** 🚀
-### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
+
+---
+
+# 🚀 **AGENTIC AI | Generative AI | LLMOps & AIOps Portfolio** 🚀
+### *9 Production-Grade AI Systems Across GenAI, Cloud & LLMOps/AIOps*
 
 [![AI](https://img.shields.io/badge/🤖_Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998)
 [![GenAI](https://img.shields.io/badge/✨_GenAI-4ECDC4?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/Ratnesh-181998)
@@ -38,7 +44,52 @@
 
 ---
 
+#  AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
 
+<img width="940" height="651" alt="image" src="https://github.com/user-attachments/assets/14dab4d9-31ab-4ff5-9acc-f5c61bb7598e" />
+
+###  A RAG chatbot = PR + EM + VX + RG + LG + GR
+
+<img width="940" height="682" alt="image" src="https://github.com/user-attachments/assets/6fb9461b-2503-4660-bf76-1deece3e5012" />
+
+### An Agentic system = AG + FC + FW (looping until the goal is achieved)
+
+<img width="940" height="632" alt="image" src="https://github.com/user-attachments/assets/ab07cb85-6f33-4d94-a013-ff80561bcb34" />
+
+---
+
+###  🚀 AI Periodic Table: A Simple Way to Understand Modern AI Systems
+
+ - AI systems are becoming increasingly complex — LLMs, RAG, agents, tools, guardrails, multimodal models… it’s easy to get lost.Just like the chemistry periodic table, it organizes AI into foundational elements, compositions, deployment patterns, and emerging capabilities.
+   
+#### 🔹 Row 1 – Primitives (Foundations)
+- Prompts (PR) – instructions that drive behavior
+- Embeddings (EM) – semantic representations
+- LLMs (LG) – core reasoning engines
+#### 🔹 Row 2 – Compositions (Where value starts)
+- Function Calling (FC) – tool execution
+- Vector Databases (VX) – semantic memory
+- RAG (RG) – grounded generation
+- Guardrails (GR) – safety & validation
+- Multimodal Models (MM)
+#### 🔹 Row 3 – Deployment (Production AI)
+- Agents (AG) – think → act → observe loops
+- Fine-tuning (FT) – domain adaptation
+- Frameworks (FW) – orchestration (LangChain, etc.)
+- Red Teaming (RT) – adversarial testing
+- Small Models (SM) – fast & cost-efficient
+#### 🔹 Row 4 – Emerging (Future direction)
+- Multi-Agent Systems (MA)
+- Synthetic Data (SY)
+- Interpretability (IN)
+- Thinking Models (TH)
+  
+#### ⚗️ What’s powerful is how these elements combine into “reactions”:
+-	A RAG chatbot = PR + EM + VX + RG + LG + GR
+-	An Agentic system = AG + FC + FW (looping until the goal is achieved)
+
+
+---
 
 ## 📑 **TABLE OF CONTENTS** 📑
 
@@ -49,10 +100,11 @@
 
 | 🎯 **Project** | 🔗 **Quick Links** | 🛠️ **Tech Stack** |
 |:---|:---|:---|
+|🌤️ Weather MCP Agent | [GitHub](https://github.com/Ratnesh-181998/weather-mcp-a2a) • [Demo](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/) | MCP •RAG • LangChain • Groq |
 | 🎬 Anime Recommender | [GitHub](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System) • [Demo](https://agentic-rag-anime-recommender-system-4zb9ciceyhdlqls2csksqd.streamlit.app/) | RAG • LangChain • Groq |
 | 🛒 Flipkart Recommender | [GitHub](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG) • [Demo](https://flipkart-appuct-recommender-rag-qpisu9s2oo4dyjr3fpp4yf.streamlit.app/) | RAG • Vector DB • LangChain |
-| ✈️ AI Travel Planner | [GitHub](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System) • 🔜 Demo | Agentic AI • LangGraph |
-| 📚 Study Buddy AI | [GitHub](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI) • 🔜 Demo | GenAI • RAG • EdTech |
+| ✈️ AI Travel Planner | [GitHub](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System) • [Demo](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/) | Agentic AI • LangGraph |
+| 📚 Study Buddy AI | [GitHub](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI) • [Demo](/) | GenAI • RAG • EdTech |
 | 🎭 Celebrity Recognition | [GitHub](https://github.com/Ratnesh-181998/Celebrity-Recognition-QA-AI-System) • [Demo](https://celebrity-recognition-q-ai-system-nlan8szprudhrz9ctaappgxa.streamlit.app/) | Computer Vision • LLM |
 | 🤖 Multi-AI Agent System | [GitHub](https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-) • [Demo](https://appudtzei3tyyttd6xjhwur.streamlit.app/) | Multi-Agent • LangGraph |
 | 🏥 Medical RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot) • [Demo](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/) | Healthcare AI • RAG |
@@ -61,6 +113,7 @@
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,2,0&height=2" width="80%">
+
 ---
 
 
@@ -69,10 +122,28 @@
 ### *Explore Each Production-Grade AI System Below*
 
 ---
+## 🌤️ **WORK 1 : Weather MCP Agent: Global Intelligence System**
 
+[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/weather-mcp-a2a)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Groq Powered](https://img.shields.io/badge/AI-Groq%20LPU-orange)](https://groq.com/)
+[![MCP Protocol](https://img.shields.io/badge/Protocol-MCP-green)](https://modelcontextprotocol.io/)
 
-## 🎬 **WORK 1: Anime Recommender System** 🎬
+- **Next-Generation Agentic AI** powered by the **Model Context Protocol (MCP)** and **Llama 3 (Groq)**. A real-time, multi-modal weather intelligence system that bridges the gap between Large Language Models and deterministic data tools.
+
+### 🚀 Overview
+- The **Weather MCP Agent** is a state-of-the-art implementation of the **Model Context Protocol (MCP)**, designed to demonstrate the future of AI interoperability. Unlike traditional chatbots that hallucinate data, this agent uses a standardized protocol to "connect" to live tools—fetching real-time weather forecasts, alerts, and atmospheric analytics for **any city on Earth**.
+
+- Built on **Streamlit** for a reactive UI and powered by **Groq's LPU** for near-instant inference, this system showcases how **Agentic AI** can orchestrate complex workflows (Geocoding -> Weather API -> Conversational Synthesis) in milliseconds.
+
+---
+---
+
+## 🎬 **WORK 2: Anime Recommender System** 🎬
 ### *Agentic RAG-Powered Anime Discovery Platform*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System)
@@ -100,7 +171,7 @@
 
 
 
-## 🛒 **WORK 2: Flipkart Product Recommender** 🛒
+## 🛒 **WORK 3: Flipkart Product Recommender** 🛒
 ### *E-Commerce RAG-Based Product Discovery Engine*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG)
@@ -128,11 +199,11 @@
 
 
 
-## ✈️ **WORK 3: AI Travel Planner** ✈️
+## ✈️ **WORK 4: AI Travel Planner** ✈️
 ### *Agent-Based Travel Reasoning & Recommendation System*
 
-[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agent-Based-Travel-Reasoning-System)
-[![Coming Soon](https://img.shields.io/badge/🔜_Live_Demo_Coming_Soon-FFA500?style=for-the-badge&logo=rocket&logoColor=white)](/)
+[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agentic-AI-Travel-Planner-Itinerary)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agentic-ai-travel-planner-itinerary-mrb6ja4iv2ps3jswuqfimt.streamlit.app/)
 
 ![Agentic_AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square&logo=openai&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
@@ -158,7 +229,7 @@
 
 
 
-## 📚 **WORK 4: Study Buddy AI** 📚
+## 📚 **WORK 5: Study Buddy AI** 📚
 ### *DeepTutor - Intelligent Learning Companion System*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI)
@@ -186,7 +257,7 @@
 
 
 
-## 🎭 **WORK 5: Celebrity Recognition & QA System** 🎭
+## 🎭 **WORK 6: Celebrity Recognition & QA System** 🎭
 ### *Vision-Language AI for Celebrity Detection & Information*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Celebrity-Recognition-QA-AI-System)
@@ -212,7 +283,7 @@
 
 
 
-## 🤖 **WORK 6: Multi-AI Agent System** 🤖
+## 🤖 **WORK 7: Multi-AI Agent System** 🤖
 ### *Enterprise-Grade Collaborative AI Agent Orchestration*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-)
@@ -240,7 +311,7 @@
 
 
 
-## 🏥 **WORK 7: Medical RAG Chatbot** 🏥
+## 🏥 **WORK 8: Medical RAG Chatbot** 🏥
 ### *Healthcare AI Assistant with Medical Knowledge Base*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot)
@@ -266,7 +337,7 @@
 
 
 
-## 🎵 **WORK 8: GenAI Music Composer** 🎵
+## 🎵 **WORK 9: GenAI Music Composer** 🎵
 ### *AI-Powered Music Generation & Composition System*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/GenAI-Music-Composer)
@@ -372,32 +443,28 @@
 
 <img width="863" height="335" alt="image" src="https://github.com/user-attachments/assets/d718ec22-06b6-4014-bd52-7a857b62e9d9" />
 
----
 
 ---
-
----
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
-# 📞 **CONTACT & NETWORKING** 📞
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Ratnesh+Kumar+Singh;Data+Scientist+%7C+AI%2FML+Engineer;4%2B+Years+Building+Production+AI+Systems" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
-[![Email](https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rattudacsit2021gate@gmail.com)
-
----
 
 ## 📜 **License**
 
 ![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 **Licensed under the MIT License** - Feel free to fork and build upon this innovation! 🚀
+
+---
+
+# 📞 **CONTACT & NETWORKING** 📞
+
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratneshkumar1998/)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://share.streamlit.io/user/ratnesh-181998)
+[![Email](https://img.shields.io/badge/✉️_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rattudacsit2021gate@gmail.com)
 
 
 ---
@@ -421,10 +488,11 @@
 
 ---
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Ratnesh+Kumar+Singh;Data+Scientist+%7C+AI%2FML+Engineer;4%2B+Years+Building+Production+AI+Systems" alt="Typing SVG" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F38181&center=true&vCenter=true&width=600&lines=Built+with+passion+for+the+AI+Community+🚀;Innovating+the+Future+of+AI+%26+ML;MLOps+%7C+LLMOps+%7C+AIOps+%7C+GenAI+%7C+AgenticAI+Excellence" alt="Footer Typing SVG" />
 
 
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
 
 
