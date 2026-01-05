@@ -6,7 +6,7 @@
 ---
 
 # 🚀 **AGENTIC AI | Generative AI | LLMOps & AIOps Portfolio** 🚀
-### *9 Production-Grade AI Systems Across GenAI, Cloud & LLMOps/AIOps*
+### *10 Production-Grade AI Systems Across GenAI, Cloud & LLMOps/AIOps*
 
 [![AI](https://img.shields.io/badge/🤖_Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998)
 [![GenAI](https://img.shields.io/badge/✨_GenAI-4ECDC4?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/Ratnesh-181998)
@@ -109,7 +109,7 @@
 | 🤖 Multi-AI Agent System | [GitHub](https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-) • [Demo](https://appudtzei3tyyttd6xjhwur.streamlit.app/) | Multi-Agent • LangGraph |
 | 🏥 Medical RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot) • [Demo](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/) | Healthcare AI • RAG |
 | 🎵 GenAI Music Composer | [GitHub](https://github.com/Ratnesh-181998/GenAI-Music-Composer) • [Demo](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/) | GenAI • Deep Learning |
-
+| 🤖 Universal PDF RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot) • [Demo](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/) | LangChain • FAISS • Vector search •RAG|
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,2,0&height=2" width="80%">
