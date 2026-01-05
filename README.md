@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20PORTFOLIO&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=260&text=AGENTIC%20AI%20PORTFOLIO%0AGEN%20AI%20%7C%20LLMOps%20%7C%20AIOps&fontSize=48&fontColor=ffffff&animation=fadeIn" 
+    width="100%"
+  />
 </div>
 
 ---
 
-# 🚀 **AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio** 🚀
+# 🚀 **AGENTIC AI | Generative AI | LLMOps & AIOps Portfolio** 🚀
 ### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
 
 [![AI](https://img.shields.io/badge/🤖_Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998)
