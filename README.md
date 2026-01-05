@@ -6,7 +6,7 @@
 ---
 
 # 🚀 **AGENTIC AI | Generative AI | LLMOps & AIOps Portfolio** 🚀
-### *8 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
+### *9 Production-Grade AI Systems Across GenAI, Cloud & DevOps*
 
 [![AI](https://img.shields.io/badge/🤖_Agentic_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Ratnesh-181998)
 [![GenAI](https://img.shields.io/badge/✨_GenAI-4ECDC4?style=for-the-badge&logo=sparkles&logoColor=white)](https://github.com/Ratnesh-181998)
@@ -77,10 +77,28 @@
 ### *Explore Each Production-Grade AI System Below*
 
 ---
+## 🌤️ ** WORK 1 : Weather MCP Agent: Global Intelligence System**
 
+[![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/weather-mcp-a2a)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://weather-mcp-a2a-agent-to-agent3a95dbsjhgfhd3yussfz3e.streamlit.app/)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://appudtzei3tyyttd6xjhwur.streamlit.app/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Groq Powered](https://img.shields.io/badge/AI-Groq%20LPU-orange)](https://groq.com/)
+[![MCP Protocol](https://img.shields.io/badge/Protocol-MCP-green)](https://modelcontextprotocol.io/)
 
-## 🎬 **WORK 1: Anime Recommender System** 🎬
+- **Next-Generation Agentic AI** powered by the **Model Context Protocol (MCP)** and **Llama 3 (Groq)**. A real-time, multi-modal weather intelligence system that bridges the gap between Large Language Models and deterministic data tools.
+
+### 🚀 Overview
+- The **Weather MCP Agent** is a state-of-the-art implementation of the **Model Context Protocol (MCP)**, designed to demonstrate the future of AI interoperability. Unlike traditional chatbots that hallucinate data, this agent uses a standardized protocol to "connect" to live tools—fetching real-time weather forecasts, alerts, and atmospheric analytics for **any city on Earth**.
+
+- Built on **Streamlit** for a reactive UI and powered by **Groq's LPU** for near-instant inference, this system showcases how **Agentic AI** can orchestrate complex workflows (Geocoding -> Weather API -> Conversational Synthesis) in milliseconds.
+
+---
+---
+
+## 🎬 **WORK 2: Anime Recommender System** 🎬
 ### *Agentic RAG-Powered Anime Discovery Platform*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agentic-RAG-Anime-Recommender-System)
@@ -108,7 +126,7 @@
 
 
 
-## 🛒 **WORK 2: Flipkart Product Recommender** 🛒
+## 🛒 **WORK 3: Flipkart Product Recommender** 🛒
 ### *E-Commerce RAG-Based Product Discovery Engine*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Flipkart-Product-Recommender-RAG)
@@ -136,7 +154,7 @@
 
 
 
-## ✈️ **WORK 3: AI Travel Planner** ✈️
+## ✈️ **WORK 4: AI Travel Planner** ✈️
 ### *Agent-Based Travel Reasoning & Recommendation System*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Agentic-AI-Travel-Planner-Itinerary)
@@ -166,7 +184,7 @@
 
 
 
-## 📚 **WORK 4: Study Buddy AI** 📚
+## 📚 **WORK 5: Study Buddy AI** 📚
 ### *DeepTutor - Intelligent Learning Companion System*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/DeepTutor-STUDY-BUDDY-AI)
@@ -194,7 +212,7 @@
 
 
 
-## 🎭 **WORK 5: Celebrity Recognition & QA System** 🎭
+## 🎭 **WORK 6: Celebrity Recognition & QA System** 🎭
 ### *Vision-Language AI for Celebrity Detection & Information*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Celebrity-Recognition-QA-AI-System)
@@ -220,7 +238,7 @@
 
 
 
-## 🤖 **WORK 6: Multi-AI Agent System** 🤖
+## 🤖 **WORK 7: Multi-AI Agent System** 🤖
 ### *Enterprise-Grade Collaborative AI Agent Orchestration*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Enterprise-Multi-AI-Agent-Systems-)
@@ -248,7 +266,7 @@
 
 
 
-## 🏥 **WORK 7: Medical RAG Chatbot** 🏥
+## 🏥 **WORK 8: Medical RAG Chatbot** 🏥
 ### *Healthcare AI Assistant with Medical Knowledge Base*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot)
@@ -274,7 +292,7 @@
 
 
 
-## 🎵 **WORK 8: GenAI Music Composer** 🎵
+## 🎵 **WORK 9: GenAI Music Composer** 🎵
 ### *AI-Powered Music Generation & Composition System*
 
 [![GitHub](https://img.shields.io/badge/📂_GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ratnesh-181998/GenAI-Music-Composer)
