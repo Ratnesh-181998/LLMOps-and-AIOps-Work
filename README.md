@@ -68,6 +68,8 @@
 
 <img width="445" height="632" alt="image" src="https://github.com/user-attachments/assets/57a1873a-b79a-474f-ae71-73afb4b2c242" />
 
+<img width="592" height="825" alt="image" src="https://github.com/user-attachments/assets/c1795f14-8044-4019-b96a-f29588e819bd" />
+
 
 # [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
