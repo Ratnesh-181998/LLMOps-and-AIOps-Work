@@ -48,6 +48,12 @@
 
 <img width="918" height="1113" alt="image" src="https://github.com/user-attachments/assets/4d1036ac-d021-4599-9a05-0f1cfb4682d9" />
 
+<img width="594" height="826" alt="image" src="https://github.com/user-attachments/assets/2190c39b-99f4-4188-bfbd-ef2d04b63afd" />
+
+# [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
+
+<img width="662" height="832" alt="image" src="https://github.com/user-attachments/assets/1d00a501-b2d3-4151-a4eb-3328e2f92920" />
+
 
 #  AI Periodic Table Explained: Mapping LLMs, RAG & AI Agent Frameworks
 
