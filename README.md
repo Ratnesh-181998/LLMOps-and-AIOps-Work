@@ -48,6 +48,8 @@
 
 <img width="918" height="1113" alt="image" src="https://github.com/user-attachments/assets/4d1036ac-d021-4599-9a05-0f1cfb4682d9" />
 
+<img width="506" height="606" alt="image" src="https://github.com/user-attachments/assets/a7bbeccc-bbb7-4a8a-95ff-8fd6dc35f981" />
+
 <img width="406" height="593" alt="image" src="https://github.com/user-attachments/assets/9c27c4bb-94fa-46dc-a97a-ee918c16af61" />
 
 <img width="594" height="826" alt="image" src="https://github.com/user-attachments/assets/2190c39b-99f4-4188-bfbd-ef2d04b63afd" />
@@ -60,13 +62,12 @@
 
 <img width="420" height="625" alt="image" src="https://github.com/user-attachments/assets/6b8db3bc-a584-45e2-8b00-2447a9f5f6e2" />
 
-<img width="506" height="606" alt="image" src="https://github.com/user-attachments/assets/a7bbeccc-bbb7-4a8a-95ff-8fd6dc35f981" />
-
 <img width="487" height="634" alt="image" src="https://github.com/user-attachments/assets/0f9ef8cc-3ade-4b26-a522-9bd50fefc207" />
 
 <img width="445" height="632" alt="image" src="https://github.com/user-attachments/assets/57a1873a-b79a-474f-ae71-73afb4b2c242" />
 
 <img width="592" height="825" alt="image" src="https://github.com/user-attachments/assets/c1795f14-8044-4019-b96a-f29588e819bd" />
+
 
 # [NVIDIA Live with CEO Jensen Huang](https://www.youtube.com/watch?v=0NBILspM4c4&t=6638s)
 
