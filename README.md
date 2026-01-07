@@ -3,7 +3,7 @@
   
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=FOR%20WORK%20LIVE%20DEMO&text2=PLEASE%20VISIT%20BELOW%20(TABLE%20OF%20CONTENTS)&width=1200&height=160&fontSize=36&fontWeight=700&gradient=true" />
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=LIVE%20DEMO&text2=PLEASE%20VISIT%20BELOW%20(TABLE%20OF%20CONTENTS)&width=1200&height=160&fontSize=36&fontWeight=700&gradient=true" />
 </div>
 
 
