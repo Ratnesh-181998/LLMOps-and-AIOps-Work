@@ -42,12 +42,49 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 
+
+---
+
+# 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗟𝗮𝘆𝗲𝗿𝘀 𝗼𝗳 𝗔𝗜
+
+<img width="769" height="1143" alt="image" src="https://github.com/user-attachments/assets/07223baa-1f01-4eb5-b9c6-803db959110f" />
+
+<img width="835" height="1027" alt="image" src="https://github.com/user-attachments/assets/9775ec6f-438c-4379-a004-045f3f37e7d1" />
+
+
+# AI agents roadmap divided into 3 levels
+
+<img width="551" height="1120" alt="image" src="https://github.com/user-attachments/assets/51efe01e-ff00-492b-8004-e239b0aa47b3" />
+
+<img width="958" height="1161" alt="image" src="https://github.com/user-attachments/assets/f938030d-0a0e-463d-a209-28ca95058122" />
+
+<img width="541" height="1223" alt="image" src="https://github.com/user-attachments/assets/39f9abc9-ce76-4a5a-ac66-19c3f8960475" />
+
+<img width="739" height="1342" alt="image" src="https://github.com/user-attachments/assets/dbc51f99-45c7-49b8-a16e-740f429de232" />
+
+# GenAI vs AI Agents vs Agentic AI vs ML vs Data Science vs LLM vs Cognitive architectures.
+
+<img width="742" height="1288" alt="image" src="https://github.com/user-attachments/assets/4e829538-6914-4ee0-bf99-a37b4106237b" />
+<img width="664" height="824" alt="image" src="https://github.com/user-attachments/assets/85990cfb-2313-4fba-8c0c-f7752466afd2" />
+
+# There are 3 AI workflows worth knowing:
+
+<img width="834" height="1305" alt="image" src="https://github.com/user-attachments/assets/0df635a3-3c78-4e5e-a0dc-78c2bd2927ff" />
+<img width="820" height="993" alt="image" src="https://github.com/user-attachments/assets/dddf251f-cfd1-4df1-aeb5-02ad52717325" />
+
+<img width="922" height="1069" alt="image" src="https://github.com/user-attachments/assets/e838f476-5776-49e1-992f-7382b2a956f9" />
+
+
+
 ---
 
 # 🚀 𝗧𝗵𝗲 𝗔𝗴𝗲𝗻𝘁𝗶𝗰 𝗔𝗜 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗲 — 𝗙𝗿𝗼𝗺 𝗙𝗼𝘂𝗻𝗱𝗮𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝗼𝘂𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
 ## [AI Engineer](https://www.youtube.com/@aiDotEngineer/videos)
 
 <img width="918" height="1113" alt="image" src="https://github.com/user-attachments/assets/4d1036ac-d021-4599-9a05-0f1cfb4682d9" />
+
+<img width="894" height="1047" alt="image" src="https://github.com/user-attachments/assets/b937b9a7-7fd3-475c-8cd3-a5115ee0fc5f" />
+
 
 <img width="506" height="606" alt="image" src="https://github.com/user-attachments/assets/a7bbeccc-bbb7-4a8a-95ff-8fd6dc35f981" />
 
@@ -124,6 +161,8 @@
 #### ⚗️ What’s powerful is how these elements combine into “reactions”:
 -	A RAG chatbot = PR + EM + VX + RG + LG + GR
 -	An Agentic system = AG + FC + FW (looping until the goal is achieved)
+
+
 
 
 ---
