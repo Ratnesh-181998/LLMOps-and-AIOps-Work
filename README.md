@@ -130,6 +130,14 @@
 
 <img width="445" height="632" alt="image" src="https://github.com/user-attachments/assets/57a1873a-b79a-474f-ae71-73afb4b2c242" />
 
+---
+
+#  Understanding the MCP Workflow: How AI + Tools Work Together Seamlessly
+
+<img width="411" height="556" alt="image" src="https://github.com/user-attachments/assets/fe24c6dc-70fd-49dd-8664-2b6564af8176" />
+
+<img width="584" height="663" alt="image" src="https://github.com/user-attachments/assets/ea69ef98-065c-41b8-9213-e4e5f15327bc" />
+
 <img width="592" height="825" alt="image" src="https://github.com/user-attachments/assets/c1795f14-8044-4019-b96a-f29588e819bd" />
 
 
