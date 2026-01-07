@@ -4,13 +4,15 @@
 
 <div align="center">
 
-# FOR PROJECT LIVE DEMO PLEASE VISIT BELOW - TABLE OF CONTENTS
+## FOR PROJECT LIVE DEMO PLEASE VISIT BELOW - TABLE OF CONTENTS
 
 </div>
 
 
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12&height=2" width="80%">
 
 # 🚀 **AGENTIC AI | Generative AI | LLMOps & AIOps Portfolio** 🚀
 ### *10 Production-Grade AI Systems Across GenAI, Cloud & LLMOps/AIOps*
@@ -51,6 +53,8 @@
 
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12&height=2" width="80%">
 
 # 𝗨𝗻𝗱𝗲𝗿𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝘁𝗵𝗲 𝗟𝗮𝘆𝗲𝗿𝘀 𝗼𝗳 𝗔𝗜
 
