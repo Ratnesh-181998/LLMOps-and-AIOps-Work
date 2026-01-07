@@ -4,15 +4,7 @@
 </div>
 
 <div align="center">
-
-<h2 style="
-background: linear-gradient(90deg, #ff6a00, #ee0979, #7f00ff);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-font-weight: bold;">
-🚀 FOR WORK LIVE DEMO — PLEASE VISIT BELOW (TABLE OF CONTENTS)
-</h2>
-
+  <img src="https://svg-banners.vercel.app/api?type=origin&text1=FOR%20WORK%20LIVE%20DEMO&text2=PLEASE%20VISIT%20BELOW%20(TABLE%20OF%20CONTENTS)&width=1200&height=160&fontSize=36&fontWeight=700&gradient=true" />
 </div>
 
 
