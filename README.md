@@ -1,9 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20and%20GEN%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
-
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=LIVE%20DEMO&text2=PLEASE%20VISIT%20BELOW%20(TABLE%20OF%20CONTENTS)&width=1200&height=160&fontSize=36&fontWeight=700&gradient=true" />
+  <img src="https://svg-banners.vercel.app/api
+  ?type=origin
+  &text1=LIVE%20DEMO%20—%20PLEASE%20VISIT%20BELOW%20(TABLE%20OF%20CONTENTS)
+  &width=1400
+  &height=120
+  &fontSize=36
+  &fontWeight=800
+  &gradient=true" />
 </div>
 
 
