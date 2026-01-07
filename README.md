@@ -3,10 +3,16 @@
   
 <div align="center">
 
-![Live Demo](https://img.shields.io/badge/FOR_WORK-LIVE_DEMO-ff6a00?style=for-the-badge)
-![Table](https://img.shields.io/badge/PLEASE_VISIT-BELOW_TABLE_OF_CONTENTS-7f00ff?style=for-the-badge)
+<h2 style="
+background: linear-gradient(90deg, #ff6a00, #ee0979, #7f00ff);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-weight: bold;">
+🚀 FOR WORK LIVE DEMO — PLEASE VISIT BELOW (TABLE OF CONTENTS)
+</h2>
 
 </div>
+
 
 
 
