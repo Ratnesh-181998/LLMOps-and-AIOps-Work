@@ -26,7 +26,12 @@
 
 ---
 
-## NOTE VISIT  [AI ENGINEER REPO](https://github.com/Ratnesh-181998/AI-Engineer) FOR DETAILS EXPLANATION OR UNDERSTANDING OF AGENTIC AI , GEN AI , LLM , RAG , AGENTIC AI FRAMEWORKS etc.
+## 🚀 IMPORTANT NOTE  
+✨ **Visit 👉 [AI ENGINEER REPO](https://github.com/Ratnesh-181998/AI-Engineer)**  
+for **detailed explanations & clear understanding** of  
+**Agentic AI · Generative AI · LLMs · RAG · Agentic AI Frameworks** 🌈
+
+
 
 ---
 
