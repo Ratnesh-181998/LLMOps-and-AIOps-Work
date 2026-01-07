@@ -188,7 +188,8 @@
 
 ---
 
-<img width="704" height="443" alt="image" src="https://github.com/user-attachments/assets/4ef7c986-973b-4980-b869-146978d9003e" />
+
+<img width="1495" height="767" alt="image" src="https://github.com/user-attachments/assets/af89251c-800e-4b4b-8cdb-348f08819a2a" />
 
 
 ---
