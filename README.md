@@ -26,18 +26,10 @@
 
 ---
 
-[![NOTE](https://img.shields.io/badge/NOTE-VISIT%20AI%20ENGINEER%20REPO-7C3AED?style=for-the-badge)](https://github.com/Ratnesh-181998/AI-Engineer)
-
-🔍 **In-depth explanations & practical understanding of**  
-**Agentic AI | Gen AI | LLM | RAG | Agentic AI Frameworks**
-
-
 ## 🚀 IMPORTANT NOTE  
 ✨ **Visit 👉 [AI ENGINEER REPO](https://github.com/Ratnesh-181998/AI-Engineer)**  
-for **detailed explanations & clear understanding** of  
+for 🔍 **In-depth  explanations & clear understanding** of  
 **Agentic AI · Generative AI · LLMs · RAG · Agentic AI Frameworks** 🌈
-
-
 
 ---
 
