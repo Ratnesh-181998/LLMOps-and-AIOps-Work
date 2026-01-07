@@ -24,6 +24,9 @@
 
 </div>
 
+---
+
+## NOTE VISIT THIS [REPO](https://github.com/Ratnesh-181998/AI-Engineer) FOR DETAILS EXPLANATION OR UNDERSTANDING OF AGENTIC AI , GEN AI , LLM , RAG , AGENTIC AI FRAMEWORKS etc.
 
 ---
 
