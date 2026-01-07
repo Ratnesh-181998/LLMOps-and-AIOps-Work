@@ -1,4 +1,11 @@
 <div align="center">
+
+![AI Engineer](https://img.shields.io/badge/ROLE-AI_ENGINEER-0ea5e9?style=for-the-badge)
+
+</div>
+
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20and%20GEN%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
  </div> 
