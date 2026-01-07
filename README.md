@@ -204,6 +204,13 @@
 
 ---
 
+# [Build a Prompt Learning Loop](https://www.youtube.com/watch?v=SbcQYbrvAfI&t=114s)
+
+<img width="974" height="478" alt="image" src="https://github.com/user-attachments/assets/32a1ecb4-0789-44f0-9f10-a1ac791ca5d1" />
+
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=TABLE%20OF%20CONTENTS&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
