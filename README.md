@@ -113,6 +113,13 @@
 
 <img width="1685" height="955" alt="image" src="https://github.com/user-attachments/assets/6de08878-af48-4612-9a58-65066c5d5639" />
 
+#### AI 5 Layer Cake: 
+- 1. Energy 
+- 2. Chips 
+- 3. Infrastructure 
+- 4. Models 
+- 5. Applications
+
 # [Stanford’s LLM lecture series](https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy)
 
 <img width="662" height="832" alt="image" src="https://github.com/user-attachments/assets/1d00a501-b2d3-4151-a4eb-3328e2f92920" />
