@@ -211,6 +211,10 @@
 <img width="1011" height="523" alt="image" src="https://github.com/user-attachments/assets/77fa9acc-822c-4be9-9426-a1e86266a986" />
 
 ---
+# [Building durable Agents with Workflow DevKit & AI SDK](https://www.youtube.com/watch?v=kmV-qg4uoNI) 
+---
+# [Claude Agent SDK ](https://www.youtube.com/watch?v=TqC1qOfiVcQ)
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=TABLE%20OF%20CONTENTS&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
