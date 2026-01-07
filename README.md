@@ -2,16 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,6&height=220&text=AGENTIC%20AI%20and%20GEN%20AI&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin
-  &text1=FOR%20WORK%20LIVE%20DEMO
-  &text2=PLEASE%20VISIT%20BELOW%20-%20TABLE%20OF%20CONTENTS
-  &width=1200
-  &height=180
-  &fontSize=42
-  &fontWeight=900
-  &fontWeight2=800
-  &gradient=true" />
+
+![Live Demo](https://img.shields.io/badge/FOR_WORK-LIVE_DEMO-ff6a00?style=for-the-badge)
+![Table](https://img.shields.io/badge/PLEASE_VISIT-BELOW_TABLE_OF_CONTENTS-7f00ff?style=for-the-badge)
+
 </div>
+
 
 
 ---
