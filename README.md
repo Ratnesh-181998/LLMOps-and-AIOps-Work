@@ -34,6 +34,8 @@
 - 🔥 **Explore 👉 [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/BUILD_AGENTIC_AI_%26_GENAI_WITH_MCP-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)**
 - 🚀 **Visit 👉 [![AI Engineer Repo](https://img.shields.io/badge/AI_ENGINEER_REPO-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8)](https://github.com/Ratnesh-181998/AI-Engineer)**
 - 🔥 **Explore 👉 [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_MCP-7c3aed?style=for-the-badge&logo=openai&logoColor=fbbf24)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)**
+- 🚀 **Visit 👉 [![AI Engineer Repo](https://img.shields.io/badge/AI_ENGINEER_REPO-22d3ee?style=for-the-badge&logo=github&logoColor=0f172a)](https://github.com/Ratnesh-181998/AI-Engineer)**
+- 🔥 **Explore 👉 [![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_MCP-f472b6?style=for-the-badge&logo=openai&logoColor=ffffff)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)**
 
 
 🔍 **In-details  explanations & clear understanding** of  
