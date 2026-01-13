@@ -1,6 +1,8 @@
 <div align="center">
 
 ![AI Engineer](https://img.shields.io/badge/ROLE-AI_ENGINEER-0ea5e9?style=for-the-badge)
+![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/PROJECT-BUILD_AGENTIC_AI_%26_GENAI_WITH_MCP-f97316?style=for-the-badge)
+
 
 </div>
 
