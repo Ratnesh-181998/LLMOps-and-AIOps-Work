@@ -29,8 +29,8 @@
 ---
 
 ## 🚀 IMPORTANT NOTE  
-✨ **Visit 👉 [AI ENGINEER REPO](https://github.com/Ratnesh-181998/AI-Engineer)**
-✨ **Visit 👉[![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/PROJECT-BUILD_AGENTIC_AI_%26_GENAI_WITH_MCP-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)**
+- ✨ **Visit 👉 [AI ENGINEER REPO](https://github.com/Ratnesh-181998/AI-Engineer)**
+- ✨ **Visit 👉[![Build Agentic AI & GenAI with MCP](https://img.shields.io/badge/BUILD_AGENTIC_AI_%26_GENAI_WITH_MCP-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Build-Agentic-AI-and-Gen-AI-Agents-with-MCP)**
 
 🔍 **In-details  explanations & clear understanding** of  
 **Agentic AI · Generative AI · LLMs · RAG · Agentic AI Frameworks ·MCP** 🌈
