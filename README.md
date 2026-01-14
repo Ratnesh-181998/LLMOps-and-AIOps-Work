@@ -475,6 +475,13 @@
 
 <img width="863" height="335" alt="image" src="https://github.com/user-attachments/assets/d718ec22-06b6-4014-bd52-7a857b62e9d9" />
 
+---
+
+# MLOps ≠ AIOps ≠ LLMOps ≠ AgentOps
+
+<img width="393" height="742" alt="image" src="https://github.com/user-attachments/assets/19688ac6-253d-4b00-a584-70d5a904b6fa" />
+<img width="421" height="205" alt="image" src="https://github.com/user-attachments/assets/ad42304d-ddc5-4ac4-bd4f-fae80b121a75" />
+<img width="659" height="777" alt="image" src="https://github.com/user-attachments/assets/bb6491a7-1fb1-4754-b670-e9c7674499b4" />
 
 ---
 
