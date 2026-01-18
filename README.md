@@ -37,6 +37,8 @@
 - 🚀 **Advance NLP & Generative AI 👉 [![Advance NLP & Generative AI](https://img.shields.io/badge/ADVANCE_NLP_%26_GENERATIVE_AI-8b5cf6?style=for-the-badge)](https://github.com/Ratnesh-181998/advance-nlp-generative-ai)**
 - ☁️🤖 **Agentic AI & GenAI Cloud Stack 👉 [![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)**
 -  ☁️🤖 **Agentic AI & GenAI Cloud Stack 👉 [![Multi-Cloud Agentic AI Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)**
+-  ☁️🤖 **Agentic AI & GenAI Cloud Stack 👉 [![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-0f766e?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)**
+
 
 
 
