@@ -35,6 +35,7 @@
 - ⚙️ **Deep Dive 👉 [![Production Ready MLOps](https://img.shields.io/badge/PRODUCTION_READY_MLOPS_PIPELINES-22c55e?style=for-the-badge)](https://github.com/Ratnesh-181998/Production-Ready-MLOps-Pipelines)**
 - 🎨 **GenAI & Computer Vision 👉 [![COMPUTER Vision AI & GenAI](https://img.shields.io/badge/COMPUTER_VISION_AI_%26_GENAI-ec4899?style=for-the-badge)](https://github.com/Ratnesh-181998/Computer-Vision-Deep-Learning-Stack)**
 - 🚀 **Advance NLP & Generative AI 👉 [![Advance NLP & Generative AI](https://img.shields.io/badge/ADVANCE_NLP_%26_GENERATIVE_AI-8b5cf6?style=for-the-badge)](https://github.com/Ratnesh-181998/advance-nlp-generative-ai)**
+- ☁️🤖 **Agentic AI & GenAI Cloud Stack 👉 [![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-f97316?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)**
 
 
 🔍 **In-details  explanations & clear understanding** of  
