@@ -28,6 +28,33 @@
 
 ---
 
+# 10 Python AI libraries
+
+- 🔢 **NumPy** 👉 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+- 🐼 **Pandas** 👉 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  
+- 📊 **Scikit-Learn** 👉 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  
+- 🚀 **XGBoost** 👉 ![XGBoost](https://img.shields.io/badge/XGBoost-DC2626?style=for-the-badge&logo=apache&logoColor=white)
+
+- ⚡ **LightGBM** 👉 ![LightGBM](https://img.shields.io/badge/LightGBM-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
+
+- 🧠 **TensorFlow** 👉 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- 🎯 **Keras** 👉 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+- 🔥 **PyTorch** 👉 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+- 🤖 **Transformers (Hugging Face)** 👉 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+- 🧩 **spaCy** 👉 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+
+<img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
+
+---
+
 ## 🚀 IMPORTANT NOTE  
 
 - 🚀 **Visit 👉 [![AI Engineer Repo](https://img.shields.io/badge/AI_ENGINEER_REPO-0ea5e9?style=for-the-badge)](https://github.com/Ratnesh-181998/AI-Engineer)**
