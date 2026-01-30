@@ -74,6 +74,9 @@
 - ☁️🤖 **Agentic AI & GenAI Cloud Stack 👉 [![Agentic AI & GenAI Cloud Stack](https://img.shields.io/badge/AGENTIC_AI_%26_GENAI_CLOUD_STACK_(AWS·GCP·AZURE)-0f766e?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-AI-and-GeN-AI-Cloud-Stack-AWS-GCP-Azure)**
 - 📊🤖 **Agentic BI & Natural Language Querying 👉 [![Agentic BI NLP-Q](https://img.shields.io/badge/AGENTIC_BI_%26_NATURAL_LANGUAGE_QUERYING-0891b2?style=for-the-badge)](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying)**
 - 🧠⚙️ **Agentic GenAI Frameworks (MCP & VectorDB) 👉 [![Agentic GenAI Frameworks](https://img.shields.io/badge/AGENTIC_GENAI_FRAMEWORKS_(MCP_%26_VectorDB)-312e81?style=for-the-badge)](https://github.com/Ratnesh-181998/Agentic-Gen-AI-Frameworks-MCP-VectorDB)**
+  
+- 🧠⚙️ **Python AI/ML Libraries 👉 [![Python AI/ML Libraries](https://img.shields.io/badge/PYTHON_AI%2FML_LIBRARIES-059669?style=for-the-badge)](https://github.com/Ratnesh-181998/python-ai-ml-libraries)**
+
 - 🧠📐 **Algorithms & Data Structures 👉 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)**
 
 
