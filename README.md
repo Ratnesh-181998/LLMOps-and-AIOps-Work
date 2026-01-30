@@ -30,25 +30,34 @@
 
 # 10 Python AI libraries
 
-- 🔢 **NumPy** 👉 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-- 🐼 **Pandas** 👉 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+- 🔢 **NumPy** 👉 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) [🌐Official Website](https://numpy.org/) [📘 Documentation](https://numpy.org/doc/)
+
+- 🐼 **Pandas** 👉 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) [🌐Official Website](https://pandas.pydata.org/)  [📘 Documentation](https://pandas.pydata.org/docs/)
   
 - 📊 **Scikit-Learn** 👉 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[🌐Official Website](https://scikit-learn.org/)  [📘 Documentation](https://scikit-learn.org/stable/)
   
 - 🚀 **XGBoost** 👉 ![XGBoost](https://img.shields.io/badge/XGBoost-DC2626?style=for-the-badge&logo=apache&logoColor=white)
+[🌐Official Website](https://xgboost.readthedocs.io/en/latest/)  [📘 Documentation](https://xgboost.readthedocs.io/en/stable/)
 
 - ⚡ **LightGBM** 👉 ![LightGBM](https://img.shields.io/badge/LightGBM-16A34A?style=for-the-badge&logo=leaflet&logoColor=white)
+[🌐Official Website](https://lightgbm.readthedocs.io/en/stable/)  [📘 Documentation](https://lightgbm.readthedocs.io/en/stable/)
 
 - 🧠 **TensorFlow** 👉 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[🌐Official Website](https://www.tensorflow.org/)  [📘 Documentation](https://www.tensorflow.org/learn)
 
 - 🎯 **Keras** 👉 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+[🌐Official Website](https://keras.io/)  [📘 Documentation](https://keras.io/guides/)
 
 - 🔥 **PyTorch** 👉 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+[🌐Official Website](https://pytorch.org/)  [📘 Documentation](https://docs.pytorch.org/)
 
 - 🤖 **Transformers (Hugging Face)** 👉 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+[🌐Official Website](https://huggingface.co/)  [📘 Documentation](https://huggingface.co/docs/transformers/en/index)
 
 - 🧩 **spaCy** 👉 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+[🌐Official Website](https://spacy.io/)  [📘 Documentation](https://github.com/explosion/spacy-layout)
 
 
 <img width="595" height="727" alt="image" src="https://github.com/user-attachments/assets/616453ee-00a0-475c-b84c-b1c035e9a918" />
