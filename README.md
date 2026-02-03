@@ -156,7 +156,7 @@
 | 🏥 Medical RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Medical-RAG-Chatbot) • [Demo](https://medical-rag-chatbot-a7zyhffk6df9nqyek9jb5u.streamlit.app/) | Healthcare AI • RAG |
 | 🎵 GenAI Music Composer | [GitHub](https://github.com/Ratnesh-181998/GenAI-Music-Composer) • [Demo](https://genai-music-composer-qnshg7dgddexrjverkd2e5.streamlit.app/) | GenAI • Deep Learning |
 | 🤖 Universal PDF RAG Chatbot | [GitHub](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot) • [Demo](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/) | LangChain • FAISS • Vector search •RAG|
-| 📊 Agentic BI SaaS:NLP Analytic | [GitHub](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying) • [Demo](https://agentic-bi-natural-language-querying-xav6gvp2wxnpnn7q9caarf.streamlit.app/) | LangGraph •FAISS •RAG •Mem0 •VectorDb •MCP •FastAPI •SQL •NLP|
+| 📊 Agentic BI SaaS:NLP Analytic | [GitHub](https://github.com/Ratnesh-181998/agentic-bi-natural-language-querying) • [Demo](https://agentic-bi-natural-language-querying-xav6gvp2wxnpnn7q9caarf.streamlit.app/) |LangGraph•FAISS•RAG•Mem0•VectorDb•MCP•SQL•NLP|
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,6,2,0&height=2" width="80%">
 
