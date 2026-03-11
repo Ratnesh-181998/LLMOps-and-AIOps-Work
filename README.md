@@ -79,7 +79,7 @@
 
 - 🧠📐 **Algorithms & Data Structures 👉 [![Algorithms & Data Structures](https://img.shields.io/badge/ALGORITHMS_%26_DATA_STRUCTURES-dc2626?style=for-the-badge)](https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures)**
 - ☁️⚔️ **AI Stack Comparison (AWS vs Azure vs GCP) 👉 [![AI Stack Comparison](https://img.shields.io/badge/AI_STACK_COMPARISON_(AWS_vs_AZURE_vs_GCP)-ff00ff?style=for-the-badge)](https://github.com/Ratnesh-181998/AI-STACK-COMPARISON-AWS-AZURE-GCP)**
-- - 🧠📊 **Data Science & Machine Learning (DSML) 👉 [![DSML](https://img.shields.io/badge/DATA_SCIENCE_%26_MACHINE_LEARNING_DSML-ff006e?style=for-the-badge)](https://github.com/Ratnesh-181998/DSML)**
+- 🧠📊 **Data Science & Machine Learning (DSML) 👉 [![DSML](https://img.shields.io/badge/DATA_SCIENCE_%26_MACHINE_LEARNING_DSML-ff006e?style=for-the-badge)](https://github.com/Ratnesh-181998/DSML)**
 
 - [Agent](https://agents.md/)
 
