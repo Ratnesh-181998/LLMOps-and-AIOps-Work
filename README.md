@@ -81,6 +81,7 @@
 - ☁️⚔️ **AI Stack Comparison (AWS vs Azure vs GCP) 👉 [![AI Stack Comparison](https://img.shields.io/badge/AI_STACK_COMPARISON_(AWS_vs_AZURE_vs_GCP)-ff00ff?style=for-the-badge)](https://github.com/Ratnesh-181998/AI-STACK-COMPARISON-AWS-AZURE-GCP)**
 - 🧠📊 **Data Science & Machine Learning (DSML) 👉 [![DSML](https://img.shields.io/badge/DATA_SCIENCE_%26_MACHINE_LEARNING_DSML-ff006e?style=for-the-badge)](https://github.com/Ratnesh-181998/DSML)**
 - 🧠📊 **COMPUTER SCIENCE & IT GATE 2019  👉 [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)**
+- 📘➗ **JEE 2015 MATHEMATICS (11th & 12th)** 👉 [![JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_(11th_%26_12th)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
 
 - [Agent](https://agents.md/)
 
