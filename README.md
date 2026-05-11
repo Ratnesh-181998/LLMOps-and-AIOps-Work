@@ -82,6 +82,7 @@
 - 🧠📊 **Data Science & Machine Learning (DSML) 👉 [![DSML](https://img.shields.io/badge/DATA_SCIENCE_%26_MACHINE_LEARNING_DSML-ff006e?style=for-the-badge)](https://github.com/Ratnesh-181998/DSML)**
 - 🧠📊 **COMPUTER SCIENCE & IT GATE 2019  👉 [![GATE CS IT 2019](https://img.shields.io/badge/COMPUTER_SCIENCE_IT_GATE_2019-F59E0B?style=for-the-badge&logo=google-scholar&logoColor=black)](https://github.com/Ratnesh-181998/COMPUTER-SCIENCE-IT-GATE-2019)**
 - 📘➗ **JEE 2015 MATHEMATICS (11th & 12th)** 👉 [![JEE 2015 Mathematics](https://img.shields.io/badge/JEE_2015_MATHEMATICS_(11th_%26_12th)-14b8a6?style=for-the-badge&logo=googlescholar&logoColor=white)](https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th)
+- 🤖🧠 **CLAUDE COURSE & AI CODING WORKFLOWS** 👉 [![Claude Course](https://img.shields.io/badge/CLAUDE_COURSE-7c3aed?style=for-the-badge&logo=anthropic&logoColor=white)](https://github.com/Ratnesh-181998/Claude-Course)
 
 - [Agent](https://agents.md/)
 
